@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mask
+- 👋 Hi, I’m Neeraj O
 - I'm a passionate cybersecurity professional with expertise in cyber forensics and penetration testing. I enjoy building tools, breaking systems (ethically), and sharing my research with the community.
 
 🛠️ Skills & Technologies
